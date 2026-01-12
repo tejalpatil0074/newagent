@@ -1,4 +1,4 @@
-!pip install streamlit openai
+import streamlit as st 
 
 
 import streamlit as st
@@ -229,6 +229,7 @@ with tabs[2]:
             file_name="SOW.doc",
             mime="application/msword"
         )
+
 
 
 

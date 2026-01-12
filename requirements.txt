@@ -1,7 +1,2 @@
 streamlit
-python-docx
-transformers
-torch
-sentencepiece
-requests
-fpdf
+openapi
